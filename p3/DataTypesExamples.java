@@ -44,4 +44,5 @@ public class DataTypesExamples {
         Boolean booleanObject = null;
         System.out.println("boolean: " + booleanValue + ", Boolean null: " + booleanObject);
     }
+
 }
