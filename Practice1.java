@@ -1,4 +1,4 @@
-public class DataTypesExamples {
+public class Practice1 {
     public static void main(String[] args) {
         // ЦЕЛОЧИСЛЕННЫЕ ТИПЫ (byte, short, int, long)
         
@@ -46,3 +46,4 @@ public class DataTypesExamples {
     }
 
 }
+
