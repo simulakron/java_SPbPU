@@ -1,4 +1,4 @@
-public class OperatorsPractice {
+public class Practice1 {
     public static void main(String[] args) {
         // БАЗОВЫЕ ТИПЫ
         int a = 10, b = 3, c = 5;
@@ -121,4 +121,5 @@ public class OperatorsPractice {
         boolean logicResult = a > b && b < c || a == c;  // true && true || false = true
         System.out.println("a > b && b < c || a == c = " + logicResult);
     }
+
 }
