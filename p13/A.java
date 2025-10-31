@@ -36,4 +36,5 @@ class B extends A {
         printVars();  // напрямую
         A.printVars(); // через имя класса
     }
+
 }
